@@ -11,3 +11,21 @@ The experiment examined was a between subjects study of words per minute with va
 - Pairwise comparison using Holm's sequential Bonferroni procedure
 - Kruskal-Wallis test
 - Mann-Whitney U test 
+
+# Skills and Tools Used
+
+- R programming
+- Exploratory data analysis
+- Hypothesis testing
+- A/B testing
+- Data Visualization
+- Statistical inference
+- Statistical model
+
+# Libraries Used
+
+- plyr
+- car
+- multcomp
+- coin
+
